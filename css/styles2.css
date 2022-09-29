@@ -1,0 +1,47 @@
+img{
+    width: 18vw;
+    height: 15vw;
+    border: 3px solid black;
+    border-radius: 20px;
+    box-shadow: -10px 10px 10px rgba(0, 0, 0, 1);
+
+}
+
+table{
+    margin-top: 100px;
+}
+.category td{ 
+    width: 33.33333vw;
+     height: 50px;
+     padding-left: 11vw;
+     text-align: center;
+     
+    
+}
+ .photo, .menu, .price{
+    background-color: #B6E388;
+    width: 100px;
+    padding: 10px 30px;
+    border: 3px solid black;
+    border-radius: 50px;
+    text-shadow: 3px 3px 3px rgba(0, 0, 0, 0.4);
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.4);
+}
+
+hr{
+    position: relative;
+    top: 120px;
+    border: 1px solid white
+}
+
+.first td, .second td, .third td, .fourth td, .fifth td, .sixth td, .seventh td, .eight td {
+    width: 25vw;
+    height: 300px;
+    padding-left: 1vw;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    border: 3px solid black;
+    
+    
+}
